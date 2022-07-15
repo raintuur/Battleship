@@ -1,0 +1,12 @@
+content:
+- Theory
+- Avoid NPE
+- Where NPE might occur
+- Find NPE
+- Code that throws an exception
+- Return empty string when argument is null
+- Lines that may throw NPE
+- Where NPE may occur
+- When NPE cannot occur
+- Avoid NPE with strings
+- Unknown input

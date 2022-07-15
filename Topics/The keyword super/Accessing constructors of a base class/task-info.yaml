@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: <b>super</b> as the <b>first</b> statement
+- text: <b>this</b> as the <b>first</b> statement
+- text: <b>base</b> as the <b>last</b> statement
+- text: <b>this</b> as the <b>last</b> statement
+- text: <b>base</b> as the  <b>first</b> statement
+- text: '<b>super</b> as the <b>last</b> statement '
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2009#comment
+status: Solved
+record: -1
